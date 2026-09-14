@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sun Sep 13 22:57:36 PDT 2026
+comment0.target=ProChall15
+comment0.text=\r\n ProChall15 class does the following\:\r\n 1) Intakes the shares\r\n 2) Intakes the share price\r\n 3) Calculates the Total cost of shares\r\n 4) Calculates the comission cost\r\n 5) Calculates the total cost of the shares and commission\r\n \r\n @Jacob Ricketts, jricketts@student.sdccd.edu\r\n @version v1.0\r\n @since 9/13/2026\r\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+numComments=2

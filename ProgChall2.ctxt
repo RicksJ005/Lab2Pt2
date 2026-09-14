@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sun Sep 13 23:15:33 PDT 2026
+comment0.target=ProgChall2
+comment0.text=\r\n This takes your name, and outputs the initials, and more.\r\n\r\n @author Jacob Ricketts, jricketts@student.sdccd.edu\r\n @version 1.0\r\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+numComments=2

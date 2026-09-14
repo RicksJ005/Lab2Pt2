@@ -1,0 +1,7 @@
+#BlueJ class context
+#Sun Sep 13 23:00:18 PDT 2026
+comment0.target=ProChall13
+comment0.text=\r\n ProChall13 class does the following\:\r\n 1) Add steps here\r\n \r\n @author Jacob Ricketts, jricketts@student.sdccd.edu\r\n @version v1.0\r\n @since 9/13/2026\r\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+numComments=2

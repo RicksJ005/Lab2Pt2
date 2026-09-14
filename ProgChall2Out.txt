@@ -1,0 +1,8 @@
+Enter your first name: 
+Jacob
+Enter your middle name: 
+Andrew
+Enter your last name: 
+Ricketts
+My name is Jacob Andrew Ricketts
+My initials are JAR
